@@ -19,7 +19,7 @@ The project started from Unreal Engine's First Person template and has been prog
 
 The complete gameplay recording used for this README is included in the project package:
 
-**[▶️ Watch / Open Full Gameplay Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
+**[▶️ Watch / Open Full Gameplay Video](https://youtu.be/xXTRHK_Vit4)**
 
 > The recording demonstrates the current gameplay build, including movement, weapon combat, HUD elements, enemy encounters, reloading, objectives, and the game-over state.
 
@@ -31,7 +31,7 @@ GitHub is not ideal for embedding a large MP4 directly in a README. For the best
 [![Full Gameplay](Documentation/screenshots/combat.png)](https://youtu.be/xXTRHK_Vit4)
 ```
 
-Replace `YOUR_VIDEO_ID` with your YouTube video ID.
+Replace `xXTRHK_Vit4` with your YouTube video ID.
 
 ---
 
