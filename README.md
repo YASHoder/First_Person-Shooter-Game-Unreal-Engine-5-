@@ -28,7 +28,7 @@ The complete gameplay recording used for this README is included in the project 
 GitHub is not ideal for embedding a large MP4 directly in a README. For the best portfolio presentation, upload `Documentation/full-gameplay.mp4` to YouTube and use the following thumbnail link:
 
 ```markdown
-[![Full Gameplay](Documentation/screenshots/combat.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Full Gameplay](Documentation/screenshots/combat.png)](https://youtu.be/xXTRHK_Vit4)
 ```
 
 Replace `YOUR_VIDEO_ID` with your YouTube video ID.
