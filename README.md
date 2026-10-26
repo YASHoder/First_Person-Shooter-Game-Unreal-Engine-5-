@@ -19,7 +19,7 @@ The project started from Unreal Engine's First Person template and has been prog
 
 The complete gameplay recording used for this README is included in the project package:
 
-**[▶️ Watch / Open Full Gameplay Video](Documentation/full-gameplay.mp4)**
+**[▶️ Watch / Open Full Gameplay Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
 
 > The recording demonstrates the current gameplay build, including movement, weapon combat, HUD elements, enemy encounters, reloading, objectives, and the game-over state.
 
